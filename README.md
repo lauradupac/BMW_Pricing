@@ -30,3 +30,6 @@ bhat (2021). *BMW used car listing*. [online] kaggledatasets. Available at: http
 | BMW_Pricing.ipynb | Python notebook and notes |
 | LICENSE | MIT License |
 | .gitignore | Specifies files ignored by Git |
+
+
+Preview notebook using this link if Github fails to render: https://nbviewer.org/github/lauradupac/BMW_Pricing/blob/main/BMW_Pricing.ipynb
